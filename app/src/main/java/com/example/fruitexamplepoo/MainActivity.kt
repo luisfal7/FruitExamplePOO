@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
         var name = "kk"
         var surname = "hola"
 
+        var newCommit = "new commit"
+
     }
 }
