@@ -1,4 +1,4 @@
 package com.example.fruitexamplepoo
 
-class DataSource {
+class DataSourceUser {
 }
