@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         var user = "hola"
         var name = "kk"
+        var surname = "hola"
 
     }
 }
