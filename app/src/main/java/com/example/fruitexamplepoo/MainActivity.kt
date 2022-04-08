@@ -15,6 +15,8 @@ class MainActivity : AppCompatActivity() {
         var newCommit = "new commit"
         var stash = "reserva"
 
+        var new = "hola"
+
 
     }
 }
