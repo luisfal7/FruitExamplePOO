@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         var stash = "reserva"
 
         var new = "hola"
-
+        var new = "hola"
 
     }
 }
